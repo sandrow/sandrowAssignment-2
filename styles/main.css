@@ -1,0 +1,194 @@
+* {
+	-webkit-box-sizing: border-box;
+	   -moz-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+
+body {
+	font-family: "Krona One", CenturyGothic, AppleGothic, sans-serif;
+	font-size: 18px;
+}
+
+h1 {
+	font-family: 'Krona One', CenturyGothic, AppleGothic, sans-serif;
+	font-size: 36px;
+	text-transform: uppercase;
+}
+
+h2 {
+	font-family: 'Krona One', CenturyGothic, AppleGothic, sans-serif;
+	font-size: 22px;
+	
+}
+
+h3 {
+	font-family: 'Krona One', CenturyGothic, AppleGothic, sans-serif;
+	font-size: 18px;
+	line-height: 44px;
+	
+}
+
+p {
+	line-height: 24px;
+} 
+
+
+.container {
+ 	width: 1080px;
+ 	margin:0 auto;
+ }
+
+header {
+	width: 100%;
+	height: 721px;
+	background-image: url('../images/headerbg.jpg')
+
+}
+
+nav {
+	width: 100%;
+	background-color: rgba(0,0,0,0.3);
+	float:left;
+	height: 140px;
+	padding: 15px 32px;
+}
+
+#logo {
+	float: left;
+	width: 258px;
+	height: 98px;
+	background-image: url('../images/logo.png')
+}
+
+ul#topNav {
+	padding-top: 35px;
+	float: right;
+	font-family: 'Krona One', CenturyGothic, AppleGothic, sans-serif;
+}
+
+ul#topNav li {
+	display: inline;
+	margin-left: 56px;
+
+}
+
+ul#topNav li a {
+	color: #fff;
+	text-decoration: none;
+}
+
+header p {
+	clear:both;
+	float:left;
+	width: 100%;
+	text-align: center;
+	color: #fff;
+	margin-top: 140px;
+
+}
+
+.headerLeft {
+	width: 438px;
+	float: left;
+
+}
+
+.headerRight {
+	width: 550px;
+	float: left;
+	text-align: center;
+	padding: 130px 70px 75px 100px;	
+}
+
+section#aboutUs {
+	width: 100%;
+	float: left;
+	padding: 70px;
+
+}
+
+section h1 {
+	text-align: center;
+	color: #5dcdb5;
+	padding-bottom: 30px;
+
+}
+
+.leftAbout {
+	font-family: 'Duru Sans', CenturyGothic, AppleGothic, sans-serif;
+	width: 670px;
+	float: left;
+}
+
+.rightAbout {
+	float: right;
+}
+
+aside#menu {
+	float: left;
+	width: 100%;
+	height: 471px;
+	background-image: url('../images/greenbg.jpg');
+}
+
+aside h1 {
+	text-align: center;
+	color: #f95971;
+	padding: 40px;
+}
+
+.options {
+	width: 360px;
+	font-family: 'Duru Sans', CenturyGothic, AppleGothic, sans-serif;
+	float: left;
+	text-align: center;
+	line-height: 34px;
+}
+
+.options h2 {
+	color: #fff;
+	padding-bottom: 10px;
+}
+
+footer {
+	width: 100%;
+	float: left;
+	height: 279px;
+	padding-top:30px;
+	background-color: #252525;
+}
+
+.footleft {
+	float: left;
+	color: #fff;
+	font-family: 'Duru Sans', CenturyGothic, AppleGothic, sans-serif;
+
+}
+
+.footright {
+	float:right;
+	color: #fff;
+	font-family: 'Duru Sans', CenturyGothic, AppleGothic, sans-serif;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
